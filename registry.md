@@ -199,3 +199,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### [DunedinJS](https://github.com/DunedinJS)
+<img src="https://raw.github.com/dunedinjs/logo.js/master/DunedinJS/DunedinJS.png" width="200"/>
+
+---
